@@ -35,4 +35,7 @@
 -Google Analytics: For tracking and analyzing website traffic.
 
 
+# OUTPUT OF THE TASK 
+
+![Output](https://github.com/user-attachments/assets/e39498e6-1f7b-4be8-a88a-276577e321cd)
 
